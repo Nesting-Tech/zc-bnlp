@@ -1,0 +1,15 @@
+*.pyc
+*.so
+*.jsonlines
+logs
+conll-2012
+char_vocab*.txt
+glove*.txt
+glove*.txt.filtered
+*.v*_*_conll
+*.hdf5
+.idea/
+__pycache__/
+
+models/stable/coreference/data/
+models/stable/coreference/logs/

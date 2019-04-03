@@ -1,0 +1,9 @@
+tensorflow-gpu>=1.7.0
+tensorflow>=1.7.0
+h5py
+pyhocon
+scipy
+scikit-learn
+jieba
+gensim
+click
